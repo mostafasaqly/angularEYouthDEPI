@@ -18,4 +18,6 @@ git pull origin main
 git merge saqly
 
 # 7. Push updated main to GitHub
+git add .
+git commit -m "Updated main branch"
 git push origin main
